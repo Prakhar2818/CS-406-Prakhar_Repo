@@ -1,3 +1,4 @@
+// Program of class
 class Person {
     String name;
     int age;
