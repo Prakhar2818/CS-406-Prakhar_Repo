@@ -11,7 +11,7 @@ class Cycle implements Vehicle{
         System.out.println("Cycle is a vehicle which is paddled");
     }
 } 
-public class Car{
+public class inter{
     public static void main(String[] args) {
         Bike b=new Bike();
         Cycle c=new Cycle();
