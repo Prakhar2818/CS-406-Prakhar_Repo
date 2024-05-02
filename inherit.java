@@ -12,3 +12,4 @@ class inherit {
 		System.out.println("Salary : " + E1.salary+ "\nBenefits : " + E1.benefits);
 	}
 }
+
